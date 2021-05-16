@@ -1,0 +1,7 @@
+1.点击gshop-server_final进入文件 在文件路径栏部分输入cmd回车
+npm start 开启本地服务器
+
+2.点击shop_client进入文件 在文件路径栏部分输入cmd回车
+npm start 开启前端服务
+
+获取手机验证码时因为绑定的本人的，在运行本地后台服务器的终端中查看
